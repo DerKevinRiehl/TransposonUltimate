@@ -1,5 +1,6 @@
 # TransposonUltimate
-TransposonUltimate - a holistic set of tools for transposon identification
+
+## TransposonUltimate: a holistic bundle of tools for transposon identification
 
 [Transposon Classifier "RFSB"](https://github.com/DerKevinRiehl/transposon_classifier_rfsb)
 
@@ -9,7 +10,8 @@ TransposonUltimate - a holistic set of tools for transposon identification
 
 [Transposon Annotation Tools](https://github.com/DerKevinRiehl/transposon_annotation_tools)
 
+![alt text](https://github.com/DerKevinRiehl/TransposonUltimate/blob/main/Pipelines.PNG)
 
 ## Citations
-Please cite our paper if you find transposition event detector "deTEct" useful:
+Please cite our paper if you find TransposonUltimate useful:
 (in progress)
