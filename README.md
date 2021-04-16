@@ -4,13 +4,20 @@
 
 ---
 
-* [Transposon Classifier "RFSB"](https://github.com/DerKevinRiehl/transposon_classifier_rfsb)
-
-* [Transposon Annotator "reasonaTE"](https://github.com/DerKevinRiehl/transposon_annotation_reasonaTE)
-
-* [Transposition Event Detector "deTEct"](https://github.com/DerKevinRiehl/transposition_detector_deTEct)
+This is the official GitHub page of TransposonUltimate. You will find four pages with powerful tools for transposon identification here:
 
 * [Transposon Annotation Tools](https://github.com/DerKevinRiehl/transposon_annotation_tools)
+This page contains conda packaged versions of different transposon annotation tools, including MUSTv2, HelitronScanner, SineFinder, MiteTracker, MiteFinderII, SineScan, TirVish, LtrHarvest, TransposonPSI, TransposonNCBICDD1000.
+
+* [Transposon Classifier "RFSB"](https://github.com/DerKevinRiehl/transposon_classifier_rfsb)
+This page contains the transposon classification module "RFSB" (Random Forest Selective Binary), that can classify any given DNA sequence into a hierarchical taxonomic scheme.
+Also, you can use this software to train models for other databases on your own.
+
+* [Transposon Annotator "reasonaTE"](https://github.com/DerKevinRiehl/transposon_annotation_reasonaTE)
+This page contains the transposon annotation pipeline "reasonaTE", that is an ensemble of 13 annotation tools and combines the knowledge of different annotation approaches.
+
+* [Transposition Event Detector "deTEct"](https://github.com/DerKevinRiehl/transposition_detector_deTEct)
+This page contains the transposition event detection module "deTEct", that uses structural variants discovered by Sniffles and PBSV to match these against transposon annotations. As a result, it allows for the observation of potential transposition events.
 
 ---
 
