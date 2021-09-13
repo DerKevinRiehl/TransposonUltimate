@@ -23,6 +23,16 @@ This page contains the transposition event detection module "deTEct", that uses 
 
 ![alt text](https://github.com/DerKevinRiehl/TransposonUltimate/blob/main/Pipelines.PNG)
 
+
+---
+
+## Materials
+Please find all related materials here:
+* https://cellgeni.cog.sanger.ac.uk/browser.html?shared=transposonultimate/ 
+
+Please find the TransposonDB as fasta file here:
+* https://doi.org/10.5281/zenodo.5484069
+
 ---
 
 ## Citations
