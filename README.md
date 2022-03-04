@@ -38,7 +38,7 @@ Please find the TransposonDB as fasta file here:
 ## Citations
 Please cite our paper if you find TransposonUltimate useful:
 
-Kevin Riehl, Cristian Riccio, Eric A Miska, Martin Hemberg, TransposonUltimate: software for transposon classification, annotation and detection, Nucleic Acids Research, 2022;, gkac136, https://doi.org/10.1093/nar/gkac136
+Kevin Riehl, Cristian Riccio, Eric A Miska, Martin Hemberg, TransposonUltimate: software for transposon classification, annotation and detection, Nucleic Acids Research, 2022; gkac136, https://doi.org/10.1093/nar/gkac136
 
 ```
 @article{riehl2022transposonultimate,
